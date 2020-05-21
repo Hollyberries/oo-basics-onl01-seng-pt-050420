@@ -45,6 +45,6 @@ class Shoe
       @condition = "new"
     end
       
-  en
+  end
   
   
