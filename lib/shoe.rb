@@ -47,6 +47,6 @@ class Shoe
       
   end
   
-  cobble = Shoe.new
+  cobble = Shoe.new("new")
   
   
